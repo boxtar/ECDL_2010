@@ -1,0 +1,14 @@
+Employee No,Surname,First Name,Position,Hourly Rate
+112,Myers,Jason,Reception,£6.77
+126,Longman,John,Restaurant,£5.50
+161,Dean,Sandra,Reception,£6.75
+190,Earnshaw,Peggy,Cleaner,£5.00
+201,Odara,Marie,Restaurant,£6.25
+205,Oman,Tariq,Restaurant,£6.00
+214,Bakewell,Jean,Coffee Shop,£5.00
+220,Malone,Sam,Bar Staff,£5.75
+228,Ward,Chris,Gardener,£7.00
+244,Ferguson,Terry,Cleaner,£7.00
+301,Lee,Ciara,Porter,£5.50
+321,Chapman,Ian,Porter,£5.50
+327,Didgery,Nolene,Bar Staff,£5.75
