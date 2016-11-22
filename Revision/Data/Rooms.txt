@@ -1,0 +1,6 @@
+	Jan	Feb	March	April	May	June	July	Aug	Sept	Oct	Nov	Dec
+Single 	60	104	164	159	174	187	269	271	248	184	141	126
+Double 	93	91	137	181	171	191	278	291	263	227	132	94
+Family 	27	26	43	48	38	64	82	86	63	47	31	26
+Conference Suite	4	2	3	4	2	1	0	0	2	5	3	2
+												
